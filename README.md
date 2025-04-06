@@ -20,8 +20,10 @@ The application will allow users to input their profile details and validate the
 - Confirmation message on successful submission
 
 
-
 # To run
+clone the project using,
+    git clone https://github.com/Arrya-A/Profile_Creator_Task.git
+
 navigate to project file using command,
     cd profile_creator
 
